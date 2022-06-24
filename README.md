@@ -1,6 +1,6 @@
 # Hamming-Error-Correcting-Code-Simulator   
 
-##Projenin Kullanımı:   
+## Projenin Kullanımı:   
 
 Açılan arayüzde 4, 8 ya da 16 bitlik veri girilmesi gerekiyor.      
 Eğer farklı bir bit sayısında veri girilirse ekranda uyarı mesajı gözükecektir.     
